@@ -10,11 +10,11 @@ class qa4userinput {
     {
         Scanner scan = new Scanner(System.in);
         String name = scan.nextLine();
-        int score = scan.nextInt();
+        double score = scan.nextDouble();
         scan.nextLine();
         String department = scan.nextLine();
         System.out.println("My name is" +name);
-        System.out.println("My score is" +score);
+        System.out.println("My score is" +score/10 +"/10");
         System.out.print("My department is" +department);
     }
 }
