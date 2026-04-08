@@ -1,0 +1,53 @@
+Introduction – Basic overview of Java.
+Java Setup – Installing and configuring Java on a computer.
+How Java Works – Java code is compiled to bytecode and run on JVM.
+Variables and Datatypes – Variables store data of specific types.
+User Input – Taking input from the user using classes like Scanner.
+Coding Challenge – Practice problem to apply concepts.
+Types of Data – Different data types like int, float, char, etc.
+If Else – Conditional statement to make decisions.
+Compare Two Strings – Checking equality of strings using methods like equals().
+Coding Challenge 2 – Second programming practice task.
+Else If and Nested If – Multiple or inside conditional statements.
+Coding Challenge – Practice problem for conditions.
+Ternary Operator – Short form of if-else using ? :.
+For Loop – Loop used when the number of iterations is known.
+Coding Challenge 3 – Practice problem using loops.
+Array – Collection of elements of the same type.
+Coding Challenge 3 – Part 2 – Extended array practice problem.
+Nested For Loop – Loop inside another loop.
+While Loop – Loop that runs while a condition is true.
+Do-While Loop – Loop that runs at least once before checking condition.
+Classes and Objects – Blueprint (class) and instance (object) in OOP.
+Functions – Block of code that performs a task.
+Functions with Parameter – Functions that accept input values.
+Return Keyword – Used to return a value from a method.
+Coding Challenge 4 – Practice problem using methods.
+Method Parameter – Variables passed to a method.
+For Each Loop – Loop used to iterate through arrays easily.
+Eclipse Installation – Installing Eclipse IDE for Java development.
+Constructors – Special method used to initialize objects.
+Constructor Overloading – Multiple constructors with different parameters.
+This Keyword – Refers to the current object.
+Inheritance – One class acquiring properties of another class.
+Types of Inheritance – Different inheritance forms like single, multilevel, etc.
+Coding Challenge 5 – Practice problem on OOP concepts.
+Super Keyword – Refers to the parent class.
+Abstract – Abstract class or method that cannot be fully implemented.
+Access Modifiers – Controls visibility (public, private, protected).
+Static Keyword – Belongs to the class rather than objects.
+Final Keyword – Prevents modification, overriding, or inheritance.
+Coding Challenge 6 – Practice task on advanced concepts.
+Interface – Blueprint of methods a class must implement.
+Multiple Inheritance – Achieved in Java using interfaces.
+Lambda Expression – Short way to write functional code.
+Exception Handling – Handling runtime errors using try-catch.
+Finally Keyword – Block that always executes after try-catch.
+Throw Keyword – Used to manually throw an exception.
+Custom Exception Handling – Creating your own exception class.
+Coding Challenge 7 – Practice problem on exceptions.
+Text File – File Handling – Reading and writing files in Java.
+Read Into Text File – Reading data from a text file.
+Threads – Multiple tasks running simultaneously.
+Join Methods in Thread – Waits for a thread to finish execution.
+Threads Using Runnable – Creating threads by implementing Runnable.
